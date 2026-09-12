@@ -235,4 +235,4 @@ This repository serves as the official landing page for SuperDVD Video Editor. T
 **Get the most recent version of SuperDVD Video Editor today!**
 
 ---
-**Last updated:** 2026-09-11 23:35:47 UTC
+**Last updated:** 2026-09-12 01:43:34 UTC
